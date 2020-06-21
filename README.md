@@ -1,5 +1,5 @@
 # women-ecommerce-machine-learning
-Women's e-commerce reviews by Kaggle
+Women's e-commerce reviews by Kaggle: https://www.kaggle.com/nicapotato/womens-ecommerce-clothing-reviews
 
 # Concept:
 1. EDA
